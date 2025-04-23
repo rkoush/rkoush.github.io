@@ -1,10 +1,18 @@
-# rkoush.github.io
-GitHub repo and page for DATA602/MSML602
+# DATA602: Principles of Data Science – Notebook Project
 
+Welcome to my notebook repository for **DATA602: Principles of Data Science** at the **University of Maryland**.
 
-Hello all,
+This repository contains Python notebooks and related files developed during the course to explore core concepts in data science, including data wrangling, visualization, modeling, and evaluation.
 
-This repository was created by Rishi Koushik Sridharan (U ID: 121332189) as part of the Project for the MSML602/DATA602 - Principles of Data Science at University of Maryland, College Park. Reach out at rkoush@umd.edu for any queries.
+## 📘 Project Overview
 
-Thanks,
-Rishi Koushik Sridharan
+This notebook is part of my coursework for DATA602. It includes:
+- Exploratory Data Analysis (EDA)
+- Data preprocessing and cleaning
+- Feature engineering
+- Machine learning model development and evaluation
+- Data visualization using libraries like Matplotlib, Seaborn, and Plotly
+- Use of Pandas, NumPy, Scikit-learn, and more
+
+You can view the rendered notebook via GitHub Pages here:  
+🔗 **[Project Page](https://rkoush.github.io/)**
